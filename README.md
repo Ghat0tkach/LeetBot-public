@@ -1,5 +1,7 @@
 # LEETBOT: Your Personal LeetCode Assistant
 
+[Releases Extension Repo](https://github.com/Ghat0tkach/LeetBot-extension)
+
 ```
 Note; This is open source development version of Leetbot Public . For downloading the extension and features , Head to https://github.com/Ghat0tkach/LeetBot-extension/
 ```
